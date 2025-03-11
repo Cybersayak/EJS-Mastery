@@ -3,8 +3,6 @@
 ###  EJS is a simple templating language that lets you generate HTML markup with plain JavaScript. 
 
 
-Sure! I'll guide you step by step through learning **EJS (Embedded JavaScript Templating)**, starting from the basics and progressing to advanced topics. By the end of this tutorial, you'll have a solid understanding of EJS and how to use it effectively in your projects.
-
 ---
 
 ### **What is EJS?**
@@ -283,4 +281,3 @@ app.set('view cache', true);
 
 ---
 
-### **Conclusion**
